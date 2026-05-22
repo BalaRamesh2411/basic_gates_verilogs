@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/balar_ku1rb7l/OneDrive/Documents/Quality_throught/basic_gates/xnor
+T_opt
+!s110 1779434785
+VAjO_nf7=AL=7Ck1_1Z7S]2
+04 2 4 work tb fast 0
+=1-38d57a30ae5d-6a100520-3be-1ab4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vtb
+Z2 !s110 1779434784
+!i10b 1
+!s100 :T^dIA`U3DLXTE;Ee_HB@3
+IggVI_FT_4>c5ld>z?eSCo0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1779434094
+8xnor_gate_tb.v
+Fxnor_gate_tb.v
+L0 3
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z5 !s108 1779434783.000000
+Z6 !s107 xnor_gate.v|xnor_gate_tb.v|
+Z7 !s90 -reportprogress|300|xnor_gate_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vxnor_gate
+R2
+!i10b 1
+!s100 9ED_0AEBJKP2L_c3GJ^K^0
+IfkKHA@jhJH;NH3l?PjN4U1
+R3
+R0
+w1779434779
+8xnor_gate.v
+Fxnor_gate.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
